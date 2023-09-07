@@ -733,6 +733,13 @@ div#preloader {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+.welcome-area {
+  background: rgba(248, 248, 248, 0.8) url("../img/background/logoneu.jpg");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
 
 .well-bg {
   position: relative;
