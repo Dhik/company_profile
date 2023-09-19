@@ -729,6 +729,7 @@ div#preloader {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 70%;
 }
 .wellcome-area {
   background: rgba(248, 248, 248, 0.8) url("../img/background/bg1.jpg");
@@ -1038,7 +1039,7 @@ div#preloader {
   float: right;
   height: 100%;
   overflow: hidden;
-  padding: 50px;
+  padding: 71px 0;
   width: 50%;
   position: absolute;
   right: 0;
